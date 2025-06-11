@@ -203,7 +203,8 @@ const experiences = [
       "Implemented robust technology stack using ReactJS frontend, NodeJS backend, MySQL primary database, and Firebase for real-time management.",
       "Integrated advanced communication features including WebRTC and Stringee SDK for seamless video and voice calling functionality.",
       "Managed Firebase Authentication with Gmail and OTP, Firebase Storage for media content, and real-time messaging with Firebase Realtime Database.",
-      "GitHub: https://github.com/hapdev05/Network-Client & https://github.com/hapdev05/Network_Server",
+      "GitHub: https://github.com/hapdev05/Network-Client",
+      "GitHub: https://github.com/hapdev05/Network_Server",
     ],
   },
   {
@@ -231,7 +232,8 @@ const experiences = [
       "Built using React Native and TypeScript for cross-platform mobile development with Node.js backend integration.",
       "Implemented Firebase Authentication for secure login, Firebase Realtime Database for live order tracking and status updates.",
       "Created admin panel for user and order management, integrated payment processing and real-time shipment tracking features.",
-      "GitHub: https://github.com/hapdev05/App_ghtk & https://github.com/hapdev05/AppMobile_server",
+      "GitHub: https://github.com/hapdev05/App_ghtk",
+      "GitHub: https://github.com/hapdev05/AppMobile_server",
     ],
   },
 ];
